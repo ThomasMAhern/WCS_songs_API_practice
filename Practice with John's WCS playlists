@@ -1,0 +1,18 @@
+# John's WCS playlists, find repeat songs 
+
+# When do they occur in the night?
+
+# get user's playlists
+# https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-playlist
+
+# get playlist items
+# https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-playlists-tracks
+
+# get several tracks' info 
+# https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-several-tracks
+
+# add playlist items to list
+
+# find most common tracks/frequency
+
+# get frequency over time
